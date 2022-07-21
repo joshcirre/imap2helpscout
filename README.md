@@ -17,7 +17,7 @@ But hey, if they don't have one, then I guess we can make one for them! Who know
 As this tool is written in Go, you can install it the usual way Go programs are installed. If you don't already have Go installed, you can grab it from here https://golang.org/doc/install.
 
 ```shell
-go install github.com/StirlingMarketingGroup/imap2helpscout
+go install github.com/joshcirre/imap2helpscout
 ```
 
 Also, you will need an App ID and App Secret from Help Scout, which you can get by logging into your Help Scout account and going to your profile
