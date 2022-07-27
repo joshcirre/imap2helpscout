@@ -16,7 +16,7 @@ import (
 	"sync"
 	"unicode"
 
-	"github.com/StirlingMarketingGroup/go-helpscout"
+	"github.com/joshcirre/go-helpscout"
 	"github.com/BrianLeishman/go-imap"
 	"github.com/mitchellh/go-homedir"
 	"gopkg.in/cheggaaa/pb.v1"
